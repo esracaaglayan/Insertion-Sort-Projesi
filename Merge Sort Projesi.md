@@ -1,3 +1,4 @@
+## Merge-Sort-Projesi
 Veri Yapıları ve Algoritmalar eğitiminin ikinci projesi 
 [Patika.dev](https://www.patika.dev/tr) , [Patika.dev/Esra Çağlayan](https://app.patika.dev/esracaglayan)
  ## Soru 1: [16,21,11,8,12,22] dizisinin Merge Sort aşamalarını yazın.
